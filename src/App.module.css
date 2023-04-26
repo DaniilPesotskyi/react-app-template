@@ -1,0 +1,17 @@
+.block {
+    margin: 30px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.textMain {
+    margin-bottom: 30px;
+
+    font-size: 50px;
+    text-align: center;
+}
+
+.textSecondary {
+    font-size: 30px;
+    text-align: center;
+}
