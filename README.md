@@ -5,7 +5,7 @@
 ### You need to edit the homepage field in the package.json file by inserting your data according to the example below:
 
 ```javascript
-"homepage": "https://DaniilPesotskyi.github.io/react-app-template",
+"homepage": "https://<your-username>.github.io/<repo-name>",
 ```
 
 ### Also set the rights for correct work as shown in the example below:
